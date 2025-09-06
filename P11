@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+    printf(" To print the name SAVAN 5 time \n");
+    for (int i = 1; i <=5; i++) {
+        printf("SAVAN\n");
+    }
+}
